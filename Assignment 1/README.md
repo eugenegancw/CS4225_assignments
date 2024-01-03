@@ -1,4 +1,4 @@
-**[Assignment 1]{.underline}**
+**_Assignment 1_**
 
 -   Task: Given an input file, use Hadoop MapReduce to process all the
     keywords in the text and for all non-stopwords with a Total Count of
