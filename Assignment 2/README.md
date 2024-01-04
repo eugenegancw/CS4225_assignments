@@ -6,7 +6,7 @@
     combine weather data with the Citi bike data to get some important
     features for making predictions.
 
--   Using the Databricks platform, we worked with Spark and used Python
+-   Using the Databricks platform, I worked with Spark and used Python
     as a language of choice.
 
 The notebook consists of the following steps:
